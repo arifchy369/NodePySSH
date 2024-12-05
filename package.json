@@ -1,0 +1,13 @@
+{
+  "name": "NodeSSH",
+  "version": "1.0.0",
+  "description": "This is a custom ssh created with NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ws": "8.18.0",
+    "node-pty": "1.0.0"
+  }
+}
